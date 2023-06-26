@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eea33a0-b68a-4450-8783-8804cf098dd5" name="Changes" comment="Add StudentsManage class">
-      <change afterPath="$PROJECT_DIR$/src/Quicksort.java" afterDir="false" />
+    <list default="true" id="0eea33a0-b68a-4450-8783-8804cf098dd5" name="Changes" comment="Add Quicksort class">
+      <change afterPath="$PROJECT_DIR$/src/TruckDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,12 +61,20 @@
       <option name="project" value="LOCAL" />
       <updated>1687778375314</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Quicksort class">
+      <created>1687783819676</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687783819676</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add BankSystem class" />
     <MESSAGE value="Add StudentsManage class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add StudentsManage class" />
+    <MESSAGE value="Add Quicksort class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Quicksort class" />
   </component>
 </project>
