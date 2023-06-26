@@ -3,8 +3,8 @@ class CircleCalc {
         double radius = 4;
         Circle circle = new Circle(radius);
         System.out.println("Площадь круга с радиусом " + radius + " равна: " + circle.area());
-        System.out.println("Ширина круга с радиусом " + radius + " равна: " + circle.width);
-        System.out.println("Высота круга с радиусом " + radius + " равна: " + circle.height);
+        System.out.println("Ширина такого круга равна: " + circle.width);
+        System.out.println("Высота такого круга равна: " + circle.height);
     }
 }
 
