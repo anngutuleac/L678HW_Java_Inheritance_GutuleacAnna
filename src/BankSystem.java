@@ -1,7 +1,7 @@
 public class BankSystem {
     public static void main(String args[]) {
         int clientID = 100001;
-        String clientName = "Anna Gutuleac";
+        String clientName = "Анна Гуцуляк";
         int savingsCountID = 200002;
         double sum = 100;
         String currency = "USD";
